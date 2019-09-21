@@ -6,6 +6,7 @@
   "homepage": "https://github.com/gyl9196/lerna_nextjs#readme",
   "license": "ISC",
   "main": "lib/avatar.js",
+  "style": "lib/avatar.css",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
