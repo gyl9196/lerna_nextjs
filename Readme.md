@@ -1,0 +1,1 @@
+This repo is used to set up a mono repo with lerna. Also, will try to integrate nextjs in it
